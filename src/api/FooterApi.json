@@ -1,0 +1,17 @@
+[
+    {
+      "icon": "LocationIcon",
+      "title": "Find us",
+      "details": "Dehradun, Uttarakhand, India"
+    },
+    {
+      "icon": "PhoneIcon",
+      "title": "Call us",
+      "details": "8650424622"
+    },
+    {
+      "icon": "MailIcon",
+      "title": "Mail us",
+      "details": "amanjha9808@gmail.com"
+    }
+  ]
